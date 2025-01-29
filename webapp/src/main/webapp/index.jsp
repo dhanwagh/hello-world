@@ -28,7 +28,9 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p> If you have account , account aahe ka ? <a href="#">Sign in</a>.</p>
+	  <h2> <p> If you have account , account aahe ka ? <a href="#">Sign in</a>.
+		  </p>
+	  </h2>
   </div>
 
   
